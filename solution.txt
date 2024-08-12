@@ -1,0 +1,74 @@
+#Part 1
+Software engineering refers to a way of applying engineering principles, methods and tools to develop high
+quality Software. It's useful in creating diffent sort of application and autonation tools which make life
+and job easy.
+
+The birth of structured programming, the introduction of Object-oriented programming and the evolution of Agile Methodology
+
+1. Requirements Gathering and Analysis: In this phase, the needs and expectations of stakeholders are collected and documented. 
+
+2. System Design: Based on the requirements gathered, the system architecture and design are created. This includes designing the overall system structure, database schema, user interfaces, and system interactions.
+
+3. Implementation: The actual development of the software occurs in this phase. Programmers write code based on the design specifications, using appropriate programming languages and tools.
+
+4. Testing: The software is rigorously tested to identify and fix defects. This phase includes various types of testing such as unit testing, integration testing, system testing, and acceptance testing.
+
+5. Deployment: Once the software has been tested and is ready for release, it is deployed to a production environment where users can access and use it. This phase may involve installation, configuration, and migration of data.
+
+6. Maintenance and Support: After deployment, the software enters the maintenance phase, where it is monitored for issues, and updates or patches are applied as needed. This phase may include fixing bugs, adding new features, or making enhancements.
+
+
+The waterfall project management method is a linear, step-by-step approach that's ideal for projects with a clear scope and predictable timeline. It involves rigorous planning upfront to ensure that the project stays on track, with progress tracked closely and issues addressed promptly. The Waterfall model usually includes five project management stages (or phases): initiation, planning, execution, monitoring/control, and closing.
+Agile project management is a flexible and iterative approach that enables teams to quickly adapt to changing project requirements and deliver high-quality results within shorter timeframes. It’s very often used in software development.
+
+
+Software Developer
+Design and Implement Code, Debug and Troubleshoot, Collaborate with Team Members, Participate in Code Reviews, Document Work, Stay Updated with Technologies.
+
+Quality Assurance (QA) Engineer
+Develop Test Plans and Cases, Execute Tests, Report Issues, Verify Fixes, Collaborate with Developers, Ensure Quality Standards.
+
+Project Manager
+Project Planning, Coordinate and Manage Resources, Track Progress, Communicate with Stakeholders, Risk Management, Ensure Delivery.
+
+Integrated Development Environments (IDEs)
+
+Importance
+Centralized Development, Code Assistance, Debugging.
+Examples
+Visual Studio Code, IntelliJ IDEA, Eclipse.
+
+Version Control Systems (VCS)
+
+Importance
+Code Management, Collaboration, Branching and Merging, Backup and Recovery
+Examples
+Git, Subversion (SVN), Mercurial
+
+
+
+1. Requirements Changes
+Challenge
+Requirements can evolve or become unclear, leading to scope creep or misalignment between the product and user needs.
+Strategies to Overcome - Implement Agile Practices, Maintain Clear Communication, Document Changes
+
+2. Managing Technical Debt
+Challenge
+Accumulated shortcuts or suboptimal code practices can lead to technical debt, making future changes and maintenance more difficult.
+Strategies to Overcome - Regular Refactoring, Code Reviews, Automated Testing
+
+3. Ensuring Code Quality
+Challenge
+Maintaining high code quality and consistency across a project can be difficult, especially in large teams.
+Strategies to Overcome - Adopt Coding Standards, Automate Testing, Continuous Learning
+
+Prompt engineering is the practice of designing and crafting inputs (prompts) to guide artificial intelligence (AI) models, particularly language models, to generate desired outputs or responses. 
+
+Importance of Prompt Engineering
+Optimizing model performance, Reducing errors, Improving user interaction and Enhancing AI capability
+
+Vague - "Tell me about climate change"
+Improved - "Explain the main causes of climate change and their impact on global temperatures"
+By refining the vague prompt into a clear, specific, and concise prompt, the response is more likely to be focused and relevant, addressing exactly what the user wants to know about climate change.
+
+
